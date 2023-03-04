@@ -14,8 +14,8 @@ public class Main {
 
 
 
-        float subject1 = 43;
-        float subject2 = 64;
+        int subject1 = 43;
+        int subject2 = 64;
         float subject3 = 55;
         float subject4 = 95;
         float subject5 = 86;
