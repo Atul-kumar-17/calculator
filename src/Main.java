@@ -16,9 +16,8 @@ public class Main {
         System.out.println("The multiplication" + mul);
         System.out.println("The modulus" + mod);
 
-
-        int subject1 = 43;
-        int subject2 = 64;
+        float subject1 = 43;
+        float subject2 = 64;
         float subject3 = 55;
         float subject4 = 95;
         float subject5 = 86;
