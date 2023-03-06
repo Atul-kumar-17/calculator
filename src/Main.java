@@ -50,7 +50,7 @@ public class Main {
             System.out.print("The Modulus is +mod");
         }else{
             System.out.println("Wrong choice");
-        }Sc.close ();3
+        }Sc.close ();
 
     }
 }
